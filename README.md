@@ -77,7 +77,7 @@ Through this project, our team is building hands-on experience in:
 | 💻 Developer | Aiden Wyngaard | <a href="https://github.com/Aiden-Martin" target="_blank">@Aiden-Martin</a> |
 | 💻 Developer | Maggen Van Reenen | <a href="https://github.com/SunflowerAnzelle" target="_blank">@SunflowerAnzelle</a> |
 | 💻 Developer | Nqobile Ngoza | <a href="https://github.com/TulipNqobile" target="_blank">@TulipNqobile</a> |
-| 💻 Developer | Lwazi | *Coming Soon* |
+| 💻 Developer | Lwazi Ndlovu | <a href="https://github.com/LwaziWork" target="_blank">@LwaziWork</a> |
 
 ---
 
