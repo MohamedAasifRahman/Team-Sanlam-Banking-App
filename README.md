@@ -35,15 +35,23 @@ This repository contains the source code for the **Sanlam Banking App**, a Java-
 ## 📂 Project Structure
 
 ```
-
-
+Team-Sanlam-Banking-App/
+├── banking-system/         # Core banking logic & account management
+│   └── Main.java
+├── data-pipeline/          # Data processing and pipeline utilities
+├── rest-api/               # REST API layer for banking services
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
 
 ## 🚀 Projects & Progress
 
-> 🚧 Modules will be released progressively as development continues.
+🔄 In Progress
+
+🚧 Modules will be released progressively as development continues.
 
 ---
 
@@ -64,11 +72,11 @@ Through this project, our team is building hands-on experience in:
 
 | Role | Name | GitHub |
 |---|---|---|
-| 👑 Team Lead | Mohamed Aasif Rahman | [@MohamedAasifRahman](https://github.com/MohamedAasifRahman) |
-| 💻 Developer | Boitumelo Dupwa | [@BoitumeloDupwa](https://github.com/BoitumeloDupwa) |
-| 💻 Developer | Aiden Wyngaard | [@Aiden-Martin](https://github.com/Aiden-Martin) |
-| 💻 Developer | Maggen Van Reenen | [@SunflowerAnzelle](https://github.com/SunflowerAnzelle) |
-| 💻 Developer | Nqobile Ngoza | [@TulipNqobile](https://github.com/TulipNqobile) |
+| 👑 Team Lead | Mohamed Aasif Rahman | <a href="https://github.com/MohamedAasifRahman" target="_blank">@MohamedAasifRahman</a> |
+| 💻 Developer | Boitumelo Dupwa | <a href="https://github.com/BoitumeloDupwa" target="_blank">@BoitumeloDupwa</a> |
+| 💻 Developer | Aiden Wyngaard | <a href="https://github.com/Aiden-Martin" target="_blank">@Aiden-Martin</a> |
+| 💻 Developer | Maggen Van Reenen | <a href="https://github.com/SunflowerAnzelle" target="_blank">@SunflowerAnzelle</a> |
+| 💻 Developer | Nqobile Ngoza | <a href="https://github.com/TulipNqobile" target="_blank">@TulipNqobile</a> |
 | 💻 Developer | Lwazi | *Coming Soon* |
 
 ---
